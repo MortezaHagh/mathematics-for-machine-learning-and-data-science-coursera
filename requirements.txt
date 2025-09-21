@@ -1,0 +1,8 @@
+numpy
+ipympl
+ipywidgets
+matplotlib
+sympy
+jax
+pandas
+scikit-learn
