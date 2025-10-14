@@ -1,0 +1,6 @@
+trip_start_timestamp, trip_seconds, trip_miles, fare, tip, additional_charges, trip_total, shared_trip_authorized, trips_pooled, pickup_centroid_latitude, pickup_centroid_longitude, dropoff_centroid_latitude, dropoff_centroid_longitude, datee, weekday
+2022-01-01, 364.0, 1.3, 5.0, 0.0, 2.36, 7.36, 0, 1, 41.921855, -87.646211, 41.936237, -87.656412, 2022-01-01, Saturday
+2022-01-02, 243.0, 1.0, 5.0, 0.0, 2.36, 7.36, 0, 1, 41.936310, -87.651563, 41.943155, -87.640698, 2022-01-01, Saturday
+2022-01-02, 275.0, 1.5, 7.5, 0.0, 1.02, 8.52, 0, 1, 41.792357, -87.617931, 41.812949, -87.617860, 2022-01-01, Monday
+2022-01-01, 2299.0, 25.0, 32.5, 7.0, 7.18, 46.68, 0, 1, 41.878866, -87.625192, 40.0, -87.5, 2022-01-01, Saturday
+2022-01-01, 3905.0, 44.5, 55.0, 0.0, 11.25, 66.25, 0, 1, 41.972563, -87.678846, 40.0, -87.7, 2022-01-01, Sunday

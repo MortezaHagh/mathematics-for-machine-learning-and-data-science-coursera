@@ -6,3 +6,8 @@ sympy
 jax
 pandas
 scikit-learn
+seaborn
+nltk # natural language toolkit
+openpyxl
+folium
+statsmodels
